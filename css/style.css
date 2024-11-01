@@ -6,6 +6,17 @@ h1{
     text-align: center;
 }
 
+.repo{
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+}
+
+.repo a{
+    color: #5D21D0;
+    font-weight: normal;
+}
+
 .container {
     display: flex;
     background-color: #D6B4FC;

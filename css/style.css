@@ -111,3 +111,27 @@ h4 {
 .flex-wrap{
     flex-wrap: wrap;
 }
+
+.h-300{
+    height: 300px;
+}
+
+.items-start{
+    align-items: flex-start;
+}
+
+.items-end{
+    align-items: flex-end;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.items-baseline{
+    align-items: baseline;
+}
+
+.items-strech{
+    align-items: stretch;
+}
